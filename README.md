@@ -17,20 +17,20 @@
  <li><b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b> </li>
 
 
-<b>Excel and SQL</b>
+<b>EXCEL AND SQL</b>
 
- <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql  </li>
+<li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql  </li>
 
 
 <b>Redshift</b>
- <li> </li>
+<li> xxxx </li>
 
 <b>Tableau</b>
- <li> </li>
+<li> xxxx </li>
 
 <b>Python</b>
- <li> </li>
+<li> xxxx </li>
 
 <b>Microsoft SQL Server</b>
- <li> </li>
+<li> xxxx </li>
 
