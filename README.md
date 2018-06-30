@@ -10,3 +10,18 @@ Check the tool stacks (p23) in O'Reilly's "2016 Data Science Salary Survey" by J
 <b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b>
 
 
+<b>Excel and SQL</b>
+
+
+<b>Redshift</b>
+
+
+<b>Tableau</b>
+
+
+<b>Python</b>
+
+
+<b>Microsoft SQL Server</b>
+
+
