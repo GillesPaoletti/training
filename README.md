@@ -13,6 +13,8 @@
 
 
 
+
+
 <b>IDENTIFY YOUR STACK</b>
 
  <li>Check the tool stacks (p23) in O'Reilly's "2016 Data Science Salary Survey" by John King and Roger Magoulas. You can get the free ebook here: https://www.oreilly.com/data/free/2016-data-science-salary-survey.csp  </li>
@@ -20,20 +22,36 @@
  <li><b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b> </li>
 
 
+
+
 <b>EXCEL AND SQL</b>
 
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql  </li>
 
 
-<b>Redshift</b>
+
+
+<b>REDSHIFT</b>
 <li> xxxx </li>
 
-<b>Tableau</b>
+
+
+
+<b>TABLEAU</b>
 <li> xxxx </li>
 
-<b>Python</b>
+
+
+<b>PYTHON</b>
 <li> xxxx </li>
 
-<b>Microsoft SQL Server</b>
+
+
+<b>MICROSOFT SQL SERVER</b>
 <li> xxxx </li>
+
+
+
+
+
 
