@@ -1,4 +1,7 @@
-# DATA SCIENCE CONTEXT
+# TRAININGS
+
+
+<b>DATA SCIENCE CONTEXT</b>
 
 <li>Start with "What is data science? The future belongs to the companies and people that turn data into products". By Mike Loukides, June 2, 2010 https://www.oreilly.com/ideas/what-is-data-science </li>
 
