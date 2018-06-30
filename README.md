@@ -12,6 +12,8 @@ Check the tool stacks (p23) in O'Reilly's "2016 Data Science Salary Survey" by J
 
 <b>Excel and SQL</b>
 
+Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql
+
 
 <b>Redshift</b>
 
