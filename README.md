@@ -22,34 +22,35 @@
  <li><b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b> </li>
 
 
-
-
 <b>EXCEL AND SQL</b>
-
+<ul>
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql  </li>
-
-
+</ul>
 
 
 <b>REDSHIFT</b>
+
+<ul><li> xxxx </li>
 <li> xxxx </li>
-
-
-
+<li> xxxx </li></ul>
 
 <b>TABLEAU</b>
+
+<ul><li> xxxx </li>
 <li> xxxx </li>
-
-
+<li> xxxx </li></ul>
 
 <b>PYTHON</b>
+
+<ul><li> xxxx </li>
 <li> xxxx </li>
-
-
+<li> xxxx </li></ul>
 
 <b>MICROSOFT SQL SERVER</b>
-<li> xxxx </li>
 
+<ul><li> xxxx </li>
+<li> xxxx </li>
+<li> xxxx </li></ul>
 
 
 
