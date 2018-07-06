@@ -2,8 +2,7 @@
 
 
 <b>DATA SCIENCE CONTEXT</b>
-
-
+<ul>
 <li>Start with "What is data science? The future belongs to the companies and people that turn data into products". By Mike Loukides, June 2, 2010 https://www.oreilly.com/ideas/what-is-data-science</li>
 
 
@@ -11,12 +10,7 @@
 
 
 <li>Some free courses are available from: http://archive.oreilly.com/oreillyschool/courses/courses.html</li>
-
-
-
-
-
-
+</ul>
 
 <b>IDENTIFY YOUR STACK</b>
 
