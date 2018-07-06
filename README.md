@@ -13,41 +13,36 @@
 </ul>
 
 <b>IDENTIFY YOUR STACK</b>
+<ul>
+<li>Check the tool stacks (p23) in O'Reilly's "2016 Data Science Salary Survey" by John King and Roger Magoulas. You can get the free ebook here: https://www.oreilly.com/data/free/2016-data-science-salary-survey.csp  </li>
 
- <li>Check the tool stacks (p23) in O'Reilly's "2016 Data Science Salary Survey" by John King and Roger Magoulas. You can get the free ebook here: https://www.oreilly.com/data/free/2016-data-science-salary-survey.csp  </li>
-
- <li><b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b> </li>
-
+<li><b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b> </li>
+</ul>
 
 <b>EXCEL AND SQL</b>
 <ul>
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql  </li>
 </ul>
 
-
 <b>REDSHIFT</b>
-
-<ul><li> xxxx </li>
+<ul>
 <li> xxxx </li>
-<li> xxxx </li></ul>
+</ul>
 
 <b>TABLEAU</b>
-
-<ul><li> xxxx </li>
+<ul>
 <li> xxxx </li>
-<li> xxxx </li></ul>
+</ul>
 
 <b>PYTHON</b>
-
-<ul><li> xxxx </li>
+<ul>
 <li> xxxx </li>
-<li> xxxx </li></ul>
+</ul>
 
 <b>MICROSOFT SQL SERVER</b>
-
-<ul><li> xxxx </li>
+<ul>
 <li> xxxx </li>
-<li> xxxx </li></ul>
+</ul>
 
 
 
