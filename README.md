@@ -17,6 +17,8 @@
 <li>Check the tool stacks (p23) in O'Reilly's "2016 Data Science Salary Survey" by John King and Roger Magoulas. You can get the free ebook here: https://www.oreilly.com/data/free/2016-data-science-salary-survey.csp  </li>
 
 <li><b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b> </li>
+
+<li><b>Power BI is not mentionned in the "2016 Data Science Salary Survey"  but is probably worth addign to the list</b> </li>
 </ul>
 
 <b>EXCEL AND SQL</b>
