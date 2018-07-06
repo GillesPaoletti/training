@@ -23,7 +23,7 @@
 
 <b>EXCEL AND SQL</b>
 <ul>
-<li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql  </li>
+<li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql This course also covers Tableau. </li>
 </ul>
 
 <b>REDSHIFT</b>
