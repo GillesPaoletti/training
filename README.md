@@ -40,7 +40,7 @@
 <ul>
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql This course also covers Tableau and you will get the key for a 6-month Tableau license. </li>
 
-<li>https://www.tableau.com/learn/training contains free training videos </li>
+<li>https://www.tableau.com/learn/training contains free training videos. The paid training modules can be bought here: https://www.tableau.com/learn/training/elearning </li>
 </ul>
 
 <b>PYTHON</b>
