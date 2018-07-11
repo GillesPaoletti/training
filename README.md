@@ -23,7 +23,7 @@
 
 <b>EXCEL AND SQL</b>
 <ul>
-<li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql This course also covers Tableau. </li>
+<li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql The Excel part of the course is heavy on statistics and not for beginners.  </li>
 </ul>
 
 <b>POWER BI</b>
@@ -38,8 +38,10 @@
 
 <b>TABLEAU</b>
 <ul>
-<li> xxxx </li>
+<li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql This course also covers Tableau and you will get the key for a 6-month Tableau license. </li>
 </ul>
+
+
 
 <b>PYTHON</b>
 <ul>
