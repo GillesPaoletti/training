@@ -1,5 +1,7 @@
 # TRAININGS
 
+Below are some links of interest.
+
 
 <b>DATA SCIENCE CONTEXT</b>
 <ul>
