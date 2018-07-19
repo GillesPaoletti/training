@@ -28,11 +28,6 @@ Below are some links of interest.
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql The Excel part of the course is heavy on statistics and not for beginners.  </li>
 </ul>
 
-<b>POWER BI</b>
-<ul>
-<li> xxxx </li>
-</ul>
-
 <b>REDSHIFT</b>
 <ul>
 <li> xxxx </li>
