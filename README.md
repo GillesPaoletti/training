@@ -40,6 +40,14 @@ Below are some links of interest.
 <li>https://www.tableau.com/learn/training contains free training videos. The paid training modules can be bought here: https://www.tableau.com/learn/training/elearning while the starter kits are here: https://www.tableau.com/learn/starter-kits</li>
 </ul>
 
+<b>POWER BI</b>
+<ul>
+<li> This video describes the differences between Powe BI and Tableau, and how people often use both: https://www.youtube.com/watch?v=FoqSPCtj7zo </li>
+<li> xxxx </li>
+<li> xxxx </li>
+<li> xxxx </li>
+</ul>
+
 <b>PYTHON</b>
 <ul>
 <li> xxxx </li>
