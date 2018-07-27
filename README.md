@@ -38,6 +38,12 @@ Below are some links of interest.
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql One of the modules covers Tableau and you will get the key for a 6-month Tableau license. At the end of the course, you will be able to create visualisations like this https://github.com/GillesPaoletti/Tableau </li>
 
 <li>https://www.tableau.com/learn/training contains free training videos. The paid training modules can be bought here: https://www.tableau.com/learn/training/elearning while the starter kits are here: https://www.tableau.com/learn/starter-kits</li>
+
+<li> Tableau has a YouTube channel https://www.youtube.com/channel/UCu8rzBIc9UquDDy2E6uK8ZQ/videos , with some videos like https://www.youtube.com/watch?v=GkJwcyI_1vc to get you started. </li>
+
+<li> xxxx </li>
+
+<li> xxxx </li>
 </ul>
 
 <b>POWER BI</b>
