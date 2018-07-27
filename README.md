@@ -39,7 +39,7 @@ Below are some links of interest.
 
 <li>https://www.tableau.com/learn/training contains free training videos. The paid training modules can be bought here: https://www.tableau.com/learn/training/elearning while the starter kits are here: https://www.tableau.com/learn/starter-kits</li>
 
-<li> Tableau has a YouTube channel https://www.youtube.com/channel/UCu8rzBIc9UquDDy2E6uK8ZQ/videos , with some videos like https://www.youtube.com/watch?v=GkJwcyI_1vc to get you started. </li>
+<li> Tableau has a YouTube channel https://www.youtube.com/channel/UCu8rzBIc9UquDDy2E6uK8ZQ/videos , with some videos like https://www.youtube.com/watch?v=GkJwcyI_1vc to get you started. Here is another similar video https://www.youtube.com/watch?v=Nr31rv9tsJ8</li>
 
 <li> xxxx </li>
 
