@@ -51,7 +51,9 @@ Below are some links of interest.
 <b>POWER BI</b>
 <ul>
 <li> This video describes the differences between Powe BI and Tableau, and how people often use both: https://www.youtube.com/watch?v=FoqSPCtj7zo </li>
-<li> xxxx </li>
+  
+<li> This video is a 11mn walkthrough to create a dashboard https://www.youtube.com/watch?v=h6AIAxMEDiw </li>
+
 <li> xxxx </li>
 <li> xxxx </li>
 </ul>
