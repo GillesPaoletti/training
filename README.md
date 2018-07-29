@@ -30,7 +30,7 @@ Below are some links of interest.
 
 <b>REDSHIFT</b>
 <ul>
-<li> xxxx </li>
+<li> Content to be added </li>
 </ul>
 
 <b>TABLEAU</b>
@@ -44,10 +44,6 @@ Below are some links of interest.
 <li> Tableau has a YouTube channel https://www.youtube.com/channel/UCu8rzBIc9UquDDy2E6uK8ZQ/videos , with some videos like https://www.youtube.com/watch?v=GkJwcyI_1vc to get you started. Here is another similar video https://www.youtube.com/watch?v=Nr31rv9tsJ8</li>
 
 <li> "Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master 1st Edition" by Ryan Sleeper. Publisher: O′Reilly; 1 edition (17 April 2018), ISBN-10: 1491977310 is a very good resource. Ryan's Tableau public page is https://public.tableau.com/profile/osmguy#!/ and his website is https://www.ryansleeper.com/data-visualizations/  One of his advise is to jopin a local tableau community group (see https://community.tableau.com/community/groups).</li>
-
-<li> xxxx </li>
-
-<li> xxxx </li>
 </ul>
 
 <b>POWER BI</b>
@@ -55,19 +51,16 @@ Below are some links of interest.
 <li> This video describes the differences between Powe BI and Tableau, and how people often use both: https://www.youtube.com/watch?v=FoqSPCtj7zo </li>
   
 <li> This video is a 11mn walkthrough to create a dashboard https://www.youtube.com/watch?v=h6AIAxMEDiw </li>
-
-<li> xxxx </li>
-<li> xxxx </li>
 </ul>
 
 <b>PYTHON</b>
 <ul>
-<li> xxxx </li>
+<li> Content to be added </li>
 </ul>
 
 <b>MICROSOFT SQL SERVER</b>
 <ul>
-<li> xxxx </li>
+<li> Content to be added </li>
 </ul>
 
 
