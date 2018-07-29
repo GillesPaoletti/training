@@ -41,7 +41,7 @@ Below are some links of interest.
 
 <li> Tableau has a YouTube channel https://www.youtube.com/channel/UCu8rzBIc9UquDDy2E6uK8ZQ/videos , with some videos like https://www.youtube.com/watch?v=GkJwcyI_1vc to get you started. Here is another similar video https://www.youtube.com/watch?v=Nr31rv9tsJ8</li>
 
-<li> "Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master 1st Edition" by Ryan Sleeper. Publisher: O′Reilly; 1 edition (17 April 2018), ISBN-10: 1491977310 is a very good resource.</li>
+<li> "Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master 1st Edition" by Ryan Sleeper. Publisher: O′Reilly; 1 edition (17 April 2018), ISBN-10: 1491977310 is a very good resource. Ryan's Tableau public page is https://public.tableau.com/profile/osmguy#!/ and his website is https://www.ryansleeper.com/data-visualizations/ </li>
 
 <li> xxxx </li>
 
