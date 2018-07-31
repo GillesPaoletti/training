@@ -7,9 +7,7 @@ Below are some links of interest.
 <ul>
 <li>Start with "What is data science? The future belongs to the companies and people that turn data into products". By Mike Loukides, June 2, 2010 https://www.oreilly.com/ideas/what-is-data-science</li>
 
-
 <li>Coursera's "Executive Data Science Specialization" ( https://www.coursera.org/specializations/executive-data-science ). Most of this course  is covered in "The Art of Data Science - A Guide for Anyone Who Works with Data" by Roger D. Peng and Elizabeth Matsui http://leanpub.com/artofdatascience</li>
-
 
 <li>Some free courses are available from: http://archive.oreilly.com/oreillyschool/courses/courses.html</li>
 </ul>
@@ -21,6 +19,14 @@ Below are some links of interest.
 <li><b>It looks like my stack is: Excel > SQL > Redshift > Tableau > Python > Microsoft SQL Server.</b> </li>
 
 <li><b>Power BI is not mentionned in the "2016 Data Science Salary Survey"  but is probably worth adding to the list</b> </li>
+</ul>
+
+<b>SOURCES OF DATA</b>
+<ul>
+Check the following links:
+<li> https://public.tableau.com/s/resources?qt-overview_resources=1#qt-overview_resources </li>
+<li> https://public.tableau.com/en-us/s/blog/2017/09/data-sources-you-need-right-now</li>
+<li> https://www.data.gov/ </li>
 </ul>
 
 <b>EXCEL AND SQL</b>
