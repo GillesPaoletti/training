@@ -21,15 +21,6 @@ Below are some links of interest.
 <li><b>Power BI is not mentionned in the "2016 Data Science Salary Survey"  but is probably worth adding to the list</b> </li>
 </ul>
 
-<b>SOURCES OF DATA</b>
-<ul>
-Check the following links:
-<li> https://public.tableau.com/s/resources?qt-overview_resources=1#qt-overview_resources </li>
-<li> https://public.tableau.com/en-us/s/blog/2017/09/data-sources-you-need-right-now</li>
-<li> https://www.data.gov/ </li>
-<li> https://data.worldbank.org/ </li>
-</ul>
-
 <b>EXCEL AND SQL</b>
 <ul>
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql The Excel part of the course is heavy on statistics and not really suitable for beginners.  </li>
