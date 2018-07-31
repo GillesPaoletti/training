@@ -55,7 +55,7 @@ Below are some links of interest.
 
 <b>PYTHON</b>
 <ul>
-<li> Content to be added </li>
+<li> The Open Univeristy offers a beginning course called "Learn to Code for Data Analysis" at https://www.futurelearn.com/courses/learn-to-code with introduction to Python, Jupyter notebook, Anaconda.</li>
 </ul>
 
 <b>MICROSOFT SQL SERVER</b>
