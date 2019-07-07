@@ -35,7 +35,8 @@ Below are some links of interest.
 <ul>
 <li>Course "Excel to MySQL: Analytic Techniques for Business Specialization" - available from https://www.coursera.org/specializations/excel-mysql One of the modules covers Tableau and you will get the key for a 6-month Tableau desktop license. At the end of the course, you will be able to create visualisations like these: https://github.com/GillesPaoletti/Tableau </li>
   
-<li> If you do not have a Tableau desktop license, you can always use https://public.tableau.com/s/  Once logged, you will be able to download Tableau Desktop Public edition. My gallery is located here: https://public.tableau.com/profile/gilles4683#!/</li>
+<li> If you do not have a Tableau desktop license, you can always use https://public.tableau.com/s/  Once logged, you will be able to download Tableau Desktop Public edition. My gallery is located here: https://public.tableau.com/profile/gilles4683#!/
+Pricing for Tableau licenses can be found at "Tableau Pricing: Features, Costs and Top BI Alternatives" ( https://www.betterbuys.com/bi/tableau-pricing/ ).</li>
   
 <li> "Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master 1st Edition" by Ryan Sleeper. Publisher: O′Reilly; 1 edition (17 April 2018), ISBN-10: 1491977310 is an EXCELLENT resource. Ryan's Tableau public page is https://public.tableau.com/profile/osmguy#!/ and his website is https://www.ryansleeper.com/data-visualizations/  One of his advice is to join a local tableau community group (see https://community.tableau.com/community/groups).</li>
   
@@ -46,7 +47,7 @@ Below are some links of interest.
 
 <b>POWER BI</b>
 <ul>
-<li> This video describes the differences between Powe BI and Tableau, and how people often use both: https://www.youtube.com/watch?v=FoqSPCtj7zo </li>
+<li> This video describes the differences between Power BI and Tableau, and how people often use both: https://www.youtube.com/watch?v=FoqSPCtj7zo </li>
   
 <li> This video is a 11mn walkthrough to create a dashboard https://www.youtube.com/watch?v=h6AIAxMEDiw </li>
 </ul>
