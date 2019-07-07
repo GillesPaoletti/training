@@ -43,6 +43,8 @@ Pricing for Tableau licenses can be found at "Tableau Pricing: Features, Costs a
 <li>https://www.tableau.com/learn/training contains free training videos. The paid training modules can be bought here: https://www.tableau.com/learn/training/elearning while the starter kits are here: https://www.tableau.com/learn/starter-kits .The Tableau Community link is https://community.tableau.com/ and the Dublin Community is https://community.tableau.com/groups/dublin </li>
 
 <li> Tableau has a YouTube channel https://www.youtube.com/channel/UCu8rzBIc9UquDDy2E6uK8ZQ/videos , with some videos like https://www.youtube.com/watch?v=GkJwcyI_1vc to get you started. Here is another similar video https://www.youtube.com/watch?v=Nr31rv9tsJ8</li>
+
+<li>In the field of data visualisation, the most powerful demonstration of storytelling is undoubtedly the representation of time series data. See "Andy Kirk: The Design of Time"'s article at https://www.tableau.com/learn/webinars/andy-kirk-design-time</li>
 </ul>
 
 <b>POWER BI</b>
