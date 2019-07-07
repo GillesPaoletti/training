@@ -45,6 +45,12 @@ Pricing for Tableau licenses can be found at "Tableau Pricing: Features, Costs a
 <li> Tableau has a YouTube channel https://www.youtube.com/channel/UCu8rzBIc9UquDDy2E6uK8ZQ/videos , with some videos like https://www.youtube.com/watch?v=GkJwcyI_1vc to get you started. Here is another similar video https://www.youtube.com/watch?v=Nr31rv9tsJ8</li>
 
 <li>In the field of data visualisation, the most powerful demonstration of storytelling is undoubtedly the representation of time series data. See "Andy Kirk: The Design of Time"'s article at https://www.tableau.com/learn/webinars/andy-kirk-design-time</li>
+
+<li>"Creating and Utilizing Custom Shapes" at https://public.tableau.com/s/blog/2013/10/creating-and-utilizing-custom-shapes
+can be of interest. This link can be used in complement with https://thenounproject.com/ as a source of icons.</li>
+
+<li>10 powerful examples of Tableau's table calculations can be found at "Top 10 Tableau table calculations"
+( https://www.tableau.com/about/blog/2017/2/top-10-tableau-table-calculations-65417 ).</li>
 </ul>
 
 <b>POWER BI</b>
