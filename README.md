@@ -52,7 +52,7 @@ Pricing for Tableau licenses can be found at "Tableau Pricing: Features, Costs a
 can be of interest. This link can be used in complement with https://thenounproject.com/ as a source of icons.</li>
 
 <li>10 powerful examples of Tableau's table calculations can be found at "Top 10 Tableau table calculations"
-( https://www.tableau.com/about/blog/2017/2/top-10-tableau-table-calculations-65417 ).</li>
+( https://www.tableau.com/about/blog/2017/2/top-10-tableau-table-calculations-65417 ). You can also refer to "10 Best Practices for Building Effective Dashboards" by Ellen Nadelhoffer ( http://17.datavizday.by/upload/whitepapers/10%20Best%20Practices%20for%20Building%20Effective.pdf).</li>
 </ul>
 
 <b>POWER BI</b>
