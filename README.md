@@ -64,7 +64,13 @@ can be of interest. This link can be used in complement with https://thenounproj
 
 <b>PYTHON</b>
 <ul>
-<li> The Open Univeristy offers a beginning course called "Learn to Code for Data Analysis" at https://www.futurelearn.com/courses/learn-to-code with introduction to Python, Jupyter notebook, Anaconda.</li>
+  
+<li> The Open Univeristy offers a beginning course called "Learn to Code for Data Analysis" at https://www.futurelearn.com/courses/learn-to-code with introduction to Python, Jupyter notebook, Anaconda. You can use it in conjonction with https://www.python.org/.
+
+<li> xxxxxxxxxxx </li>
+<li> xxxxxxxxxxx </li>
+<li> xxxxxxxxxxx </li>
+<li> xxxxxxxxxxx </li> 
 </ul>
 
 <b>MICROSOFT SQL SERVER</b>
