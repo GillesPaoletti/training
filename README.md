@@ -64,13 +64,13 @@ can be of interest. This link can be used in complement with https://thenounproj
 
 <b>PYTHON</b>
 <ul>
+<li> The obvious place to start having a look is https://www.python.org/. </li>
   
-<li> The Open Univeristy offers a beginning course called "Learn to Code for Data Analysis" at https://www.futurelearn.com/courses/learn-to-code with introduction to Python, Jupyter notebook, Anaconda. You can use it in conjonction with https://www.python.org/.
+<li> The Open Univeristy offers a beginning course called "Learn to Code for Data Analysis" at https://www.futurelearn.com/courses/learn-to-code with introduction to Python, Jupyter notebook, Anaconda. </li>
+  
+<li> https://automatetheboringstuff.com/ is a good introductory book (with a related course available at Udemy, see https://www.udemy.com/course/automate/learn/ ).</li>
 
-<li> xxxxxxxxxxx </li>
-<li> xxxxxxxxxxx </li>
-<li> xxxxxxxxxxx </li>
-<li> xxxxxxxxxxx </li> 
+<li> There is also the Google's Python Class at https://developers.google.com/edu/python/</li>
 </ul>
 
 <b>MICROSOFT SQL SERVER</b>
