@@ -3,8 +3,8 @@
 <li> The obvious place to start having a look is https://www.python.org/. Youn can also use "How to Think Like a Computer Scientist: Learning with Python 2nd Edition documentation" at http://www.openbookproject.net/thinkcs/python/english2e/index.html</li>
 
 <li>Code can be written using the following applications: PyCharm (https://www.jetbrains.com/pycharm/) or IDLE (https://www.python.org/downloads/ ).</li>
-  
-  
+
+
 COURSES
 
 <li> The Open Univeristy offers a beginning course called "Learn to Code for Data Analysis" at https://www.futurelearn.com/courses/learn-to-code with introduction to Python, Jupyter notebook, Anaconda. </li>
