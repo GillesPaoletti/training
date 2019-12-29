@@ -5,7 +5,7 @@
 <li>Code can be written using the following applications: PyCharm (https://www.jetbrains.com/pycharm/) or IDLE (https://www.python.org/downloads/ ).</li>
   
   
-<li> COURSES </li>
+COURSES
 
 <li> The Open Univeristy offers a beginning course called "Learn to Code for Data Analysis" at https://www.futurelearn.com/courses/learn-to-code with introduction to Python, Jupyter notebook, Anaconda. </li>
   
@@ -14,7 +14,7 @@
 <li> There is also the Google's Python Class at https://developers.google.com/edu/python/ (as well as a Machine Learning Crash Course at https://developers.google.com/machine-learning/crash-course ).
 
 
-<li> CODE VALIDATION </li>
+CODE VALIDATION
 
 <li> http://pythontutor.com/visualize.html#mode=edit lets you write code in your web browser, see it visualized step by step, and get live help from volunteers.</li>
 </ul>
