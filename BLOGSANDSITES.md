@@ -1,5 +1,6 @@
 <li> BLOGS TO FOLLOW </li>
-
+<ul>
+</ul>
 <ul>
 <li> https://jakevdp.github.io/</li>
 </ul>
